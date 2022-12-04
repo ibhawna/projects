@@ -1,9 +1,5 @@
-# FakeNews RNN with PyTorch
-Create a Recurrent Neural Network (RNN) with PyTorch to identify when an article might be fake news.
+# FakeNews RNN
 
-Live Demo: https://fakenews-rnn.herokuapp.com/
-
-## Overview
 Fake news or junk news is a type of propaganda that transmits misinformation via traditional print, broadcast news media or online social media. Fake news was not a popular term three years ago, but it is now seen as one of the greatest threats to democracy, free debate and the Western order. It was named 2017's word of the year, raising tensions between nations, and may lead to regulation of social media.
 
 There are many discussions and forums that give us some tips to identify fake news, but the process is long, tedious and time-consuming. As a result, many algorithms have been created to automatically identify unreliable articles and websites. There are many competitions dedicated to identifying fake news using some sort of algorithm such as the Fake News InClass Prediction Competition on Kaggle - an online community of data scientists and machine learners.
